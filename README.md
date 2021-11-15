@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer focused on JavaScript</h3>
 
 - 🌱 I’m currently learning **React,NodeJS**
 
