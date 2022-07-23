@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">Software Engineer focused on Javascript applications.</h3>
 
-- 🌱 I’m currently learning **React,NodeJS**
-
 - 📫 How to reach me **imamogluemree@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
